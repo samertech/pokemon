@@ -1,0 +1,13 @@
+.title{
+   text-align: center;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.list-list{
+    display:flex;
+    justify-content:center;
+    padding:30px;
+}
